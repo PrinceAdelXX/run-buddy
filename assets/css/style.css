@@ -80,6 +80,7 @@ section-title secondary-border {
   background-size: cover;
   background-position: center;
   position: relative;
+  padding: 60px
 }
 /* Hero Style End */
 
@@ -272,7 +273,6 @@ section-title secondary-border {
 .contact-info a {
   color: #fce138;
 }
-
 
 
 
